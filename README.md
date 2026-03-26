@@ -1,20 +1,32 @@
-# Paper XXVI: Why 14π? The Geometric Phase Transition of the MSDS Manifold
-
-**Author:** Dervis Kadunic | Independent Researcher  
-**Date:** March 2026  
-**Status:** Preprint (Companion to Papers I–XXV)
-
----
-
-## 🏗️ Executive Summary: The "Cosmic Freezing Point"
-While Paper XXIV identified the **14π** ratio as a high-precision empirical match for the $S_8$ tension, **Paper XXVI** provides the first-principles analytical derivation. We demonstrate that 14π is not a coincidence, but a thermodynamic necessity—the "Ground-State Geometry" that space-time hardened into when Dark Energy achieved structural dominance.
-
-## 🔬 Four Interlocking Analytical Results
-
-### 1. The σ–14π Identity
-We establish a closed-form connection between the settling rate ($\sigma$), the recombination epoch ($z_{CMB}$), and the structural ratio.
-* **Formula:** $\sigma \times \ln(1+z_{CMB}) \approx \frac{1}{14\pi}$
-* **Accuracy:** **0.5%** (Validated against Paper XXIV residuals).
+MSDS Framework: The Path to Unification (Papers XX–XXVII)
+​This section of the repository documents the transition of the Modified Scalar-Derived Sector (MSDS) from theoretical derivation to structural verification and the identification of the late-time phase transition.
+​The Core Lagrangian (Paper XX)
+​Paper XX: The MSDS Lagrangian and the Running Planck Mass
+​Focus: Derivation of the primary action and the running gravitational coupling \alpha_M(z).
+​Key Result: Established the formula \alpha_M(z) = -0.14858 \times \Omega_{DE}(z)/\Omega_{DE}(0), which serves as the "engine" for G_{eff} variation.
+​The Metric & Mapping (Papers XXI–XXV)
+​Paper XXI: The Schwarz P Metric Transition
+​Mapping the transition from FLRW (Friedmann–Lemaître–Robertson–Walker) to a triply periodic minimal surface (TPMS) geometry.
+​Paper XXII: 14\pi as a Vacuum Invariant
+​Defining the 14\pi geometric constant as the "stiffness" of the spatial manifold.
+​Paper XXIII: Scaling Laws and Atomic Handshakes
+​Initial investigation into the 0.1% numerical correspondence between vacuum geometry and the Fine Structure Constant (\alpha).
+​Paper XXIV: The Dark Energy Equivalence Principle
+​Treating the cosmological constant not as a fluid, but as the elastic tension of the 14\pi lattice.
+​Paper XXV: Redshift Evolution of the MSDS Sector
+​Formalizing the \delta(z) curve and the timing of the "Solidification" event.
+​The Phase Transition & Structural Audit (Papers XXVI–XXVII)
+​Paper XXVI: The z \approx 0.3 Solidification Event
+​Focus: Proving the universe "freezes" into a crystalline lattice at late times.
+​Key Result: Identified the specific redshift where the Hubble Tension begins to diverge.
+​Paper XXVII: Dual-Weld Verification & The 22x Gap
+​Focus: A critical "stress test" of the framework.
+​Key Result: Verified the Im3m symmetry of the Schwarz P surface but identified a 22x amplitude gap in the simple geometric coupling—setting the stage for the G_{eff} discovery in Paper XXVIII.
+​Technical Summary
+​These papers represent the "Construction Phase" of the MSDS model. They move from the high-level math of the Lagrangian (Paper XX) to the physical mapping of the universe as a geometric lattice. This sequence proves that the "Hubble Tension" is a predictable result of the spatial manifold changing its state at z \approx 0.3.
+​Author: Dervis Kadunic
+Status: Preprints / Research Documentation
+Next Milestone: Paper XXVIII (The G_{eff} Overshoot Solution)* **Accuracy:** **0.5%** (Validated against Paper XXIV residuals).
 * **Significance:** Links the Big Bang boundary conditions directly to the present-day structural invariant.
 
 ### 2. The Freezing Point ($z_{eq} \approx 0.296$)
