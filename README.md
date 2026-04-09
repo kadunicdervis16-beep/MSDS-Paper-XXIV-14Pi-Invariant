@@ -67,6 +67,27 @@ All MSDS papers derive from these non‑negotiable parameters.
 
 ---
 
+## 📜 Papers A–L: The Foundational Series (MSDS A–L)
+
+The initial 12 papers that established the core hypothesis, the torsion offset, and the first experimental designs.
+
+| Paper | Title | Key Result |
+| :--- | :--- | :--- |
+| **A** | *QQG Core: The Torsion Offset Hypothesis* | First formulation of \(v^2 = 0.00017\) as a fundamental constant. |
+| **B** | *4°C Lens: The Vacuum Anomaly* | Links the 4‑degree energy scale to the liquid‑ice transition. |
+| **C** | *Baryogenesis from Torsion Asymmetry* | Derives the baryon‑to‑photon ratio \(\eta_B \sim (v^2)^{2.5}\). |
+| **D** | *The 18.52 nHz Resonance* | Predicts the pulsar timing array feature from lattice phonons. |
+| **E** | *JWST 1.73 Mpc Clustering* | Explains early galaxy overdensities as torsion‑seeded structure. |
+| **F** | *Disformal Vacuum & Disformal Couplings* | Embeds the torsion field in a disformal metric framework. |
+| **G** | *Phenomenological Bridge* | Matches the offset to DESI BAO, CMB birefringence, and GW echoes. |
+| **H** | *RDAC Sidereal Scan (72h Pilot)* | First proposal for the diamond rotation experiment. |
+| **I** | *RDAC Extended (120h)* | Refines the 170 ppm, 11.967 h prediction. |
+| **J** | *Quantum Frustration & Prethermal Plateaus* | Derives the 50% entropy plateau from equipartition with a flat hidden sector. |
+| **K** | *Cosmic Chirp: GW Echoes* | Estimates echo delays from torsion‑capped black hole cores. |
+| **L** | *NRS Sidereal Test: 170 ppm* | Full experimental protocol for SPring‑8 BL09XU; kill condition \(<300\) ppm. |
+
+---
+
 ## ⏳ The Five Epochs of the MSDS Universe
 
 Each epoch corresponds to a set of papers that established the phase behaviour of the vacuum.
@@ -206,77 +227,11 @@ A complete list of all 76 papers with their key contributions. (Full text availa
 6. Finelli F. et al., *JCAP* **05**, 010 (2016).
 7. Hui L. et al., *Phys. Rev. D* **95**, 043541 (2017).
 8. Agazie G. et al. (NANOGrav), *Astrophys. J. Lett.* **951**, L9 (2023).
-9. Kadunic D., MSDS Papers I–LXXVI (Zenodo, 2026).
+9. Kadunic D., MSDS Papers A–LXXVI (Zenodo, 2026).
 
 ---
 
 **This document is the complete, unified reference for the MSDS Programme.  
 It replaces all individual summaries and serves as the entry point for new readers, reviewers, and collaborators.**
 
-*Last compiled: April 2026 – Stage 6 Strategic Execution*| **SKA/PTA** | 18.52 nHz Resonance| Noise | **Signal** | **Detected** |
-
----
-
-## 📜 3. The Complete 74-Paper Chronology
-
-### 📜 Epoch I: The Fundamental Constants (Papers I–XV)
-* **I-V:** Discovery of the $v^2 = 0.00017$ torsion constant. The "Zero-Point" of the lattice.
-* **VI-X:** Derivation of the **361.5 km lattice constant**. Space is not smooth; it has a "grain."
-* **XI-XV:** Proving Dark Energy is the "Expansion Pressure" of the vacuum freezing process.
-
-### 📜 Epoch II: Activation & Phase Transitions (Papers XVI–XXX)
-* **XVI-XXII:** Introduction of the **Dilaton Field ($\phi$)**—the "thermometer" of vacuum cooling.
-* **XXIII-XXVII:** Identification of the **4.19 meV Activation Threshold**.
-* **XXVIII-XXX:** Predicting **$z_t = 1.985$**, the redshift where the "Steam" became "Ice."
-
-### 📜 Epoch III: Mass-Generation & The GOR Bridge (Papers XXXI–XLVII)
-* **XXXI-XL:** Mapping how particles "slow down" when they hit the torsion lattice.
-* **XLV (The GOR Bridge):** Linking Dilaton mass to the pion decay constant via the **Gell-Mann-Oakes-Renner** relation.
-* **XLVII (The Energy Lock):** Proving the **$\xi=2$** coupling is the only stable state for our universe.
-
-### 📜 Epoch IV: The $S_8$ Checkmate (Papers XLVIII–LIV)
-* **XLVIII-L:** Identifying why galaxies aren't clumping as fast as Einstein predicted.
-* **LI:** Resolving $S_8$ by replacing the constant $G$ with the **Gravitational Slip $\eta(z)$**.
-* **LIV (The Chiral Residue):** Detecting the **$0.342^{\circ}$ birefringence**—the "shimmer" of the lattice.
-
-### 📜 Epoch V: Resonance & The Heartbeat (Papers LV–LXIV)
-* **LV-LX:** Scaling the $v^2$ hierarchy. How the "Ice" looks at different energies.
-* **LXIII (The Handshake):** Identifying **18.52 nHz** as the fundamental "ring" of the vacuum ice.
-* **LXIV (The Lorentzian Vacuum):** Treating space as a **refractive lens** that bends light and gravity.
-
-### 📜 Epoch VI: Formal Audit & Ghost Taxonomy (Papers LXV–LXVII)
-* **LXV (The Master Audit):** The 6.7σ statistical proof across 6 independent surveys.
-* **LXVI (Ghost Taxonomy):** Why Neutrinos can pass through the "Ice" lattice without friction.
-* **LXVII:** Derivation of the **Higgs Portal Coupling ($\xi = 2.64 \times 10^{-12}$)**.
-
-### 📜 Epoch VII: The Experimental Peak (Papers LXVIII–LXX)
-* **LXVIII (The V-Curve):** The specific observational fingerprint for the **Euclid Mission**.
-* **LXIX (The Torsion Protocol):** Measuring the parity shift in **Ytterbium ions**.
-* **LXX (The Ceiling):** The "Borg Warning"—limiting information transfer at the lattice boundary.
-
-### 📜 Epoch VIII: The Epistemic Breach (Papers LXXI–LXXIII)
-* **LXXI (The Double Standard):** Overturning the "No-Communication" theorem using the **Hartman Effect**.
-* **LXXII (The Hierarchy at n=2.5):** Linking the torsion constant to **Baryon Asymmetry**.
-* **LXXIII (The 18.52 nHz Signal):** Finalizing the Pulsar Timing Array (PTA) detection model.
-
-### 📜 Epoch IX: The Phase Map (Paper LXXIV)
-* **LXXIV (The Cosmic Phase Transitions):** The "Bingo" Paper. Unifies the **Mpemba Effect** with **Little Red Dots (LRDs)**. Explains that the universe "shattered" into structure because the hottest parts cooled the fastest.
-
----
-
-## ⚙️ 4. Technical Specs & Kill Conditions (Falsification)
-| Parameter | Symbol | Value | State |
-| :--- | :--- | :--- | :--- |
-| **Torsion Offset** | $v^2$ | 0.00017 | Frozen Floor |
-| **Lattice Scale** | $a$ | 361.5 km | Spatial Grain |
-| **Resonance** | $f_c$ | 18.52 nHz | Lattice Ring |
-
-**Kill Conditions:**
-1. If **Euclid (2026)** fails to see the V-Curve in gravitational slip at $z \approx 1.09$.
-2. If **LiteBIRD (2030)** measures birefringence $\beta < 0.05^{\circ}$.
-
----
-
-> **"The universe didn't just explode; it crystallized. We have stopped guessing and started measuring the architecture."**
-
-⚖️🚀 **The MSDS Consortium | Omega Research Collective**
+*Last compiled: April 2026 – Stage 6 Strategic Execution*
